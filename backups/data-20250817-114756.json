@@ -1,0 +1,689 @@
+{
+    "site": {
+        "languages": [
+            "ru",
+            "uz",
+            "en"
+        ],
+        "brand": {
+            "logo": "uploads/log0.png",
+            "name": {
+                "ru": "Web Lezen - Courses",
+                "uz": "Web Lezen - Courses",
+                "en": "Web Lezen - Courses"
+            }
+        },
+        "contacts": {
+            "email": "lezenuz@gmail.com",
+            "telegram": "https://t.me/weblezen",
+            "instagram": "https://instagram.com/weblezen"
+        },
+        "nav": [
+            {
+                "href": "#features",
+                "label": {
+                    "ru": "Преимущества",
+                    "uz": "Afzalliklar",
+                    "en": "Features"
+                }
+            },
+            {
+                "href": "#courses",
+                "label": {
+                    "ru": "Курсы",
+                    "uz": "Kurslar",
+                    "en": "Courses"
+                }
+            },
+            {
+                "href": "#pricing",
+                "label": {
+                    "ru": "Тарифы",
+                    "uz": "Tariflar",
+                    "en": "Pricing"
+                }
+            },
+            {
+                "href": "https://instagram.com/yourprofile",
+                "external": true,
+                "icon": "↗",
+                "label": {
+                    "ru": "Instagram",
+                    "uz": "Instagram",
+                    "en": "Instagram"
+                }
+            },
+            {
+                "href": "#faq",
+                "label": {
+                    "ru": "FAQ",
+                    "uz": "FAQ",
+                    "en": "FAQ"
+                }
+            },
+            {
+                "href": "https://t.me/web_lezen",
+                "external": true,
+                "icon": "↗",
+                "label": {
+                    "ru": "Telegram",
+                    "uz": "Telegram",
+                    "en": "Telegram"
+                }
+            }
+        ]
+    },
+    "common": {
+        "buyNow": {
+            "ru": "Купить",
+            "uz": "Sotib olish",
+            "en": "Buy now"
+        },
+        "choosePlan": {
+            "ru": "Выбрать тариф",
+            "uz": "Tarifni tanlash",
+            "en": "Choose plan"
+        },
+        "applyNow": {
+            "ru": "Оставить заявку",
+            "uz": "Ariza qoldirish",
+            "en": "Apply now"
+        }
+    },
+    "hero": {
+        "slides": [
+            {
+                "image": "uploads/21.webp",
+                "title": {
+                    "ru": "Освойте веб‑разработку",
+                    "uz": "Veb-ishlab chiqishni o‘rganing",
+                    "en": "Master Web Development"
+                },
+                "subtitle": {
+                    "ru": "Практика, наставники и проекты в портфолио.",
+                    "uz": "Amaliyot, mentorlar va portfolio loyihalari.",
+                    "en": "Hands-on practice, mentors, and portfolio projects."
+                },
+                "ctaText": {
+                    "ru": "Начать обучение",
+                    "uz": "O‘qishni boshlash",
+                    "en": "Start learning"
+                },
+                "ctaLink": "#pricing",
+                "secondaryText": {
+                    "ru": "Узнать больше",
+                    "uz": "Batafsil",
+                    "en": "Learn more"
+                },
+                "secondaryLink": "#courses"
+            },
+            {
+                "image": "uploads/21.webp",
+                "title": {
+                    "ru": "Сертификат и трудоустройство",
+                    "uz": "Sertifikat va ishga joylashish",
+                    "en": "Certificate & Career"
+                },
+                "subtitle": {
+                    "ru": "Помощь в резюме и собеседованиях.",
+                    "uz": "Rezyume va suhbatlarda yordam.",
+                    "en": "Resume and interview support."
+                },
+                "ctaText": {
+                    "ru": "К тарифам",
+                    "uz": "Tariflarga",
+                    "en": "See plans"
+                },
+                "ctaLink": "#pricing"
+            }
+        ]
+    },
+    "features": {
+        "title": {
+            "ru": "Почему мы",
+            "uz": "Nega biz",
+            "en": "Why us"
+        },
+        "subtitle": {
+            "ru": "Только полезная практика без воды.",
+            "uz": "Faqat foydali amaliyot.",
+            "en": "Practical, no fluff."
+        },
+        "items": [
+            {
+                "title": {
+                    "ru": "Наставники",
+                    "uz": "Mentorlar",
+                    "en": "Mentors"
+                },
+                "text": {
+                    "ru": "1‑на‑1 поддержка",
+                    "uz": "Yakka yordam",
+                    "en": "1‑on‑1 support"
+                }
+            },
+            {
+                "title": {
+                    "ru": "Проекты",
+                    "uz": "Loyihalar",
+                    "en": "Projects"
+                },
+                "text": {
+                    "ru": "Портфолио к выпуску",
+                    "uz": "Portfolio",
+                    "en": "Portfolio by the end"
+                }
+            },
+            {
+                "title": {
+                    "ru": "Гибко",
+                    "uz": "Moslashuvchan",
+                    "en": "Flexible"
+                },
+                "text": {
+                    "ru": "Учитесь когда удобно",
+                    "uz": "Qulay vaqtda",
+                    "en": "Learn on your time"
+                }
+            }
+        ]
+    },
+    "courses": {
+        "title": {
+            "ru": "Наши курсы",
+            "uz": "Kurslarimiz",
+            "en": "Our Courses"
+        },
+        "subtitle": {
+            "ru": "Старт с нуля или прокачка навыков.",
+            "uz": "Noldan yoki ko‘nikmalarni kuchaytirish.",
+            "en": "From zero to pro."
+        },
+        "items": [
+            {
+                "id": "c1",
+                "image": "uploads/course1.jpg",
+                "title": {
+                    "ru": "Frontend",
+                    "uz": "Frontend",
+                    "en": "Frontend"
+                },
+                "desc": {
+                    "ru": "HTML, CSS, JS, React — полный цикл.",
+                    "uz": "HTML, CSS, JS, React — to‘liq sikl.",
+                    "en": "HTML, CSS, JS, React full stack."
+                },
+                "price": {
+                    "usd": 99
+                },
+                "link": "#"
+            },
+            {
+                "id": "c2",
+                "image": "uploads/course2.jpg",
+                "title": {
+                    "ru": "Backend",
+                    "uz": "Backend",
+                    "en": "Backend"
+                },
+                "desc": {
+                    "ru": "Node.js, базы данных, API.",
+                    "uz": "Node.js, bazalar, API.",
+                    "en": "Node.js, DBs, APIs."
+                },
+                "price": {
+                    "usd": 129
+                },
+                "link": "#"
+            },
+            {
+                "id": "c3",
+                "image": "uploads/course3.jpg",
+                "title": {
+                    "ru": "UI/UX",
+                    "uz": "UI/UX",
+                    "en": "UI/UX"
+                },
+                "desc": {
+                    "ru": "Продуктовый дизайн и прототипы.",
+                    "uz": "Mahsulot dizayni va prototiplar.",
+                    "en": "Product design & prototyping."
+                },
+                "price": {
+                    "usd": 109
+                },
+                "link": "#"
+            }
+        ]
+    },
+    "instructors": {
+        "title": {
+            "ru": "Преподаватели",
+            "uz": "O‘qituvchilar",
+            "en": "Instructors"
+        },
+        "items": [
+            {
+                "name": "Amina Rahim",
+                "photo": "uploads/t1.jpg",
+                "title": {
+                    "ru": "Senior Frontend",
+                    "uz": "Senior Frontend",
+                    "en": "Senior Frontend"
+                }
+            },
+            {
+                "name": "Bekzod Ali",
+                "photo": "uploads/t2.jpg",
+                "title": {
+                    "ru": "Backend Lead",
+                    "uz": "Backend Lead",
+                    "en": "Backend Lead"
+                }
+            },
+            {
+                "name": "Sofia Kim",
+                "photo": "uploads/t3.jpg",
+                "title": {
+                    "ru": "UI/UX Lead",
+                    "uz": "UI/UX Lead",
+                    "en": "UI/UX Lead"
+                }
+            },
+            {
+                "name": "Tom Lee",
+                "photo": "uploads/t4.jpg",
+                "title": {
+                    "ru": "DevOps",
+                    "uz": "DevOps",
+                    "en": "DevOps"
+                }
+            }
+        ]
+    },
+    "pricing": {
+        "title": {
+            "ru": "Тарифы",
+            "uz": "Tariflar",
+            "en": "Pricing"
+        },
+        "pathTitle": {
+            "ru": "Путь обучения",
+            "uz": "O‘qish yo‘li",
+            "en": "Learning path"
+        },
+        "plans": [
+            {
+                "name": {
+                    "ru": "Базовый",
+                    "uz": "Bazaviy",
+                    "en": "Basic"
+                },
+                "per": {
+                    "ru": "/ курс",
+                    "uz": "/ kurs",
+                    "en": "/ course"
+                },
+                "price": {
+                    "usd": 99
+                },
+                "features": [
+                    {
+                        "ru": "Доступ к материалам",
+                        "uz": "Materiallarga kirish",
+                        "en": "Course materials"
+                    },
+                    {
+                        "ru": "Чат‑поддержка",
+                        "uz": "Chat yordam",
+                        "en": "Chat support"
+                    }
+                ],
+                "path": [
+                    {
+                        "ru": "С нуля: HTML/CSS основы",
+                        "uz": "Noldan: HTML/CSS asoslari",
+                        "en": "From zero: HTML/CSS basics"
+                    },
+                    {
+                        "ru": "JS основы и логика",
+                        "uz": "JS asoslari va mantiq",
+                        "en": "JS fundamentals & logic"
+                    },
+                    {
+                        "ru": "Мини‑проект и сертификат",
+                        "uz": "Mini loyiha va sertifikat",
+                        "en": "Mini project & certificate"
+                    }
+                ],
+                "ctaText": {
+                    "ru": "Оставить заявку",
+                    "uz": "Ariza qoldirish",
+                    "en": "Apply now"
+                },
+                "link": "#"
+            },
+            {
+                "name": {
+                    "ru": "Про",
+                    "uz": "Pro",
+                    "en": "Pro"
+                },
+                "per": {
+                    "ru": "/ курс",
+                    "uz": "/ kurs",
+                    "en": "/ course"
+                },
+                "price": {
+                    "usd": 199
+                },
+                "features": [
+                    {
+                        "ru": "Лайв‑сессии",
+                        "uz": "Jonli sessiyalar",
+                        "en": "Live sessions"
+                    },
+                    {
+                        "ru": "Проверка ДЗ",
+                        "uz": "Uy vazifasi tekshiruv",
+                        "en": "HW reviews"
+                    }
+                ],
+                "path": [
+                    {
+                        "ru": "Проектная работа с наставником",
+                        "uz": "Mentor bilan loyiha",
+                        "en": "Mentored project"
+                    },
+                    {
+                        "ru": "Работа с API и базами",
+                        "uz": "API va DB bilan ish",
+                        "en": "APIs & databases"
+                    },
+                    {
+                        "ru": "Портфолио и собеседования",
+                        "uz": "Portfolio va suhbatlar",
+                        "en": "Portfolio & interviews"
+                    }
+                ],
+                "ctaText": {
+                    "ru": "Подать заявку",
+                    "uz": "Ariza topshirish",
+                    "en": "Apply"
+                },
+                "link": "#"
+            },
+            {
+                "name": {
+                    "ru": "Премиум",
+                    "uz": "Premium",
+                    "en": "Premium"
+                },
+                "per": {
+                    "ru": "/ курс",
+                    "uz": "/ kurs",
+                    "en": "/ course"
+                },
+                "price": {
+                    "usd": 299
+                },
+                "features": [
+                    {
+                        "ru": "1‑на‑1 наставник",
+                        "uz": "1‑ga‑1 mentor",
+                        "en": "1‑on‑1 mentor"
+                    },
+                    {
+                        "ru": "Карьерный коучинг",
+                        "uz": "Karyera kouching",
+                        "en": "Career coaching"
+                    }
+                ],
+                "path": [
+                    {
+                        "ru": "Индивидуальный план развития",
+                        "uz": "Individual rivojlanish rejasi",
+                        "en": "Personalized track"
+                    },
+                    {
+                        "ru": "Full‑stack кейс и DevOps",
+                        "uz": "Full‑stack keýs va DevOps",
+                        "en": "Full‑stack case + DevOps"
+                    },
+                    {
+                        "ru": "Трудоустройство",
+                        "uz": "Ishga joylashish",
+                        "en": "Job placement"
+                    }
+                ],
+                "ctaText": {
+                    "ru": "Получить консультацию",
+                    "uz": "Konsultatsiya olish",
+                    "en": "Get consultation"
+                },
+                "link": "#"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": {
+            "ru": "Отзывы студентов",
+            "uz": "Talabalar fikrlari",
+            "en": "Student Stories"
+        },
+        "items": [
+            {
+                "name": "Nuriddin",
+                "role": "Frontend dev",
+                "avatar": "uploads/u1.jpg",
+                "text": {
+                    "ru": "После курса устроился в компанию.",
+                    "uz": "Kursdan keyin ishga kirdim.",
+                    "en": "Got hired after the course."
+                }
+            },
+            {
+                "name": "Sasha",
+                "role": "Designer",
+                "avatar": "uploads/u2.jpg",
+                "text": {
+                    "ru": "Менторы помогли собрать портфолио.",
+                    "uz": "Mentorlar portfolio tuzishda yordam berdi.",
+                    "en": "Mentors helped with portfolio."
+                }
+            },
+            {
+                "name": "Laylo",
+                "role": "QA",
+                "avatar": "uploads/u3.jpg",
+                "text": {
+                    "ru": "Чёткая структура и практика.",
+                    "uz": "Aniq tuzilma va amaliyot.",
+                    "en": "Clear structure & practice."
+                }
+            }
+        ]
+    },
+    "faq": {
+        "items": [
+            {
+                "q": {
+                    "ru": "Как проходит обучение?",
+                    "uz": "Ta'lim qanday o'tadi?",
+                    "en": "How is the learning organized?"
+                },
+                "a": {
+                    "ru": "Видеоуроки, практика и обратная связь.",
+                    "uz": "Video darslar, amaliyot va fikr-mulohaza.",
+                    "en": "Video lessons, practice, feedback."
+                }
+            },
+            {
+                "q": {
+                    "ru": "Есть ли рассрочка?",
+                    "uz": "Bo‘lib to‘lash bormi?",
+                    "en": "Installments available?"
+                },
+                "a": {
+                    "ru": "Да, напишите нам.",
+                    "uz": "Ha, bizga yozing.",
+                    "en": "Yes, contact us."
+                }
+            }
+        ]
+    },
+    "cta": {
+        "title": {
+            "ru": "Готовы начать?",
+            "uz": "Boshlashga tayyormisiz?",
+            "en": "Ready to start?"
+        },
+        "subtitle": {
+            "ru": "Выберите тариф и присоединяйтесь.",
+            "uz": "Tarifni tanlang va qo‘shiling.",
+            "en": "Pick a plan and join."
+        },
+        "buttonText": {
+            "ru": "Выбрать тариф",
+            "uz": "Tarif tanlash",
+            "en": "Choose plan"
+        },
+        "buttonLink": "#pricing"
+    },
+    "form": {
+        "title": {
+            "ru": "Заявка на обучение",
+            "uz": "O‘qish uchun ariza",
+            "en": "Application form"
+        },
+        "subtitle": {
+            "ru": "Оставьте контакты — свяжемся и поможем выбрать программу.",
+            "uz": "Kontaktlaringizni qoldiring — dastur tanlashda yordam beramiz.",
+            "en": "Leave your contacts — we will help you pick a program."
+        },
+        "labels": {
+            "name": {
+                "ru": "Имя",
+                "uz": "Ism",
+                "en": "Name"
+            },
+            "phone": {
+                "ru": "Телефон",
+                "uz": "Telefon",
+                "en": "Phone"
+            },
+            "email": {
+                "ru": "Email",
+                "uz": "Email",
+                "en": "Email"
+            },
+            "contact": {
+                "ru": "Предпочтительный контакт",
+                "uz": "Aloqa turi",
+                "en": "Preferred contact"
+            },
+            "message": {
+                "ru": "Сообщение",
+                "uz": "Xabar",
+                "en": "Message"
+            }
+        },
+        "placeholders": {
+            "name": {
+                "ru": "Ваше имя",
+                "uz": "Ismingiz",
+                "en": "Your name"
+            },
+            "phone": {
+                "ru": "+998...",
+                "uz": "+998...",
+                "en": "+998..."
+            },
+            "email": {
+                "ru": "name@mail.com",
+                "uz": "name@mail.com",
+                "en": "name@mail.com"
+            },
+            "message": {
+                "ru": "Опишите цель обучения",
+                "uz": "Maqsadingizni yozing",
+                "en": "Describe your goal"
+            }
+        },
+        "policy": {
+            "ru": "Я соглашаюсь с <a href='#' target='_blank'>политикой конфиденциальности</a>.",
+            "uz": "<a href='#' target='_blank'>Maxfiylik siyosati</a> bilan roziman.",
+            "en": "I agree to the <a href='#' target='_blank'>privacy policy</a>."
+        },
+        "submit": {
+            "ru": "Отправить",
+            "uz": "Yuborish",
+            "en": "Send"
+        },
+        "note": {
+            "ru": "Также можно написать нам в Telegram или Instagram.",
+            "uz": "Telegram yoki Instagram orqali yozishingiz mumkin.",
+            "en": "You can also reach us via Telegram or Instagram."
+        },
+        "mail": {
+            "subject": {
+                "ru": "Заявка",
+                "uz": "Ariza",
+                "en": "Application"
+            },
+            "plan": {
+                "ru": "Тариф",
+                "uz": "Tarif",
+                "en": "Plan"
+            },
+            "fallback": {
+                "ru": "Почта не настроена. Укажите адрес в site.contacts.email",
+                "uz": "Pochta sozlanmagan. site.contacts.email maydonini to‘ldiring",
+                "en": "Email not set. Fill site.contacts.email"
+            }
+        }
+    },
+    "footer": {
+        "copyright": {
+            "ru": "© 2025 WebBlazen. Все права защищены.",
+            "uz": "© 2025 WebBlazen. Barcha huquqlar himoyalangan.",
+            "en": "© 2025 WebBlazen. All rights reserved."
+        },
+        "links": [
+            {
+                "href": "#courses",
+                "label": {
+                    "ru": "Курсы",
+                    "uz": "Kurslar",
+                    "en": "Courses"
+                }
+            },
+            {
+                "href": "#pricing",
+                "label": {
+                    "ru": "Тарифы",
+                    "uz": "Tariflar",
+                    "en": "Pricing"
+                }
+            },
+            {
+                "href": "https://t.me/yourchannel",
+                "external": true,
+                "label": {
+                    "ru": "Telegram",
+                    "uz": "Telegram",
+                    "en": "Telegram"
+                }
+            },
+            {
+                "href": "https://instagram.com/yourprofile",
+                "external": true,
+                "label": {
+                    "ru": "Instagram",
+                    "uz": "Instagram",
+                    "en": "Instagram"
+                }
+            }
+        ]
+    }
+}
